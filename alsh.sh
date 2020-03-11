@@ -5,10 +5,7 @@ wget "https://valtman.name/files/telegram-cli-1222"
 mv telegram-cli-1222 tg
 sudo chmod +x tg
 echo -e "
-#BY: @TTTITT
-#CH : @API_FILE_CODE
-#Bot : @ALIKABIBOT
-#𝑨𝒅𝒅𝒆𝒅 𝑺𝒐𝒖𝒓𝒄𝒆 𝑩𝒚 ALSH    "
+#BY: @html_iq"
 echo -e "" 
 echo -e "" 
 }
