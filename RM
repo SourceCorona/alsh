@@ -1,0 +1,6 @@
+killall screen
+while(true) do
+rm -fr ../.telegram-cli
+screen ./alsh.sh
+done
+echo -e "alsh IS RUN BOT"
